@@ -1,4 +1,4 @@
-##McKinney 2019 Thesis Chapter 3 script for running analysis
+##McKinney et al 2019 script for running analysis
 ##data and model can be found at
 #scdmain is distance to mainland for each island, scaled to mean=0 and var=1
 #sclights is stable night lights intensity for each island, scaled to mean=0 and var=1
